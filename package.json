@@ -1,0 +1,28 @@
+{
+  "name": "graphql-server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamalielsaracho/graphql-server-node.git"
+  },
+  "author": "gamaliel saracho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamalielsaracho/graphql-server-node/issues"
+  },
+  "homepage": "https://github.com/gamalielsaracho/graphql-server-node#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "express": "^4.14.1",
+    "express-graphql": "^0.6.3",
+    "graphiql": "^0.9.3",
+    "graphql": "^0.9.1",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.8.5"
+  }
+}
